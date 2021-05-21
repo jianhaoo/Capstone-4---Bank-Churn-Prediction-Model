@@ -7,17 +7,7 @@ The purpose of this project is to create machine learning models to predict the 
 Performing data cleaning for data. Using Jupyter and Python libraries(Pandas), Several columns such as Customer ID and Customer Name,are indentified as unwanted columns and removed. 
 
 Data Columns After cleaning:
-Credit Score
-Geography
-Age
-Gender
-Tenure
-Balance
-Number Of Products
-Credit Card 
-Active Member
-Estimated Salary
-Exited
+![image](https://user-images.githubusercontent.com/34051347/119076890-ef859f00-ba25-11eb-93d5-1c640116ec38.png)
 
 ###Initial Insights
 Target Variable: Exited
@@ -44,21 +34,6 @@ Neural Network - MLP
 
 
 ###Machine Learning Models Result
-
-Random Forest
-Training Accuracy - 0.999294
-Testing Accuracy - 0.891086
-Precision - 0.891018
-Recall - 0.891246
-F1 Score - 0.891058
-
-Decision Tree
-Training Accuracy - 0.856436
-Testing Accuracy - 0.814187
-Precision - 0.814112
-Recall - 0.813975
-
-F1 Score - 0.891058
 
 ![image](https://user-images.githubusercontent.com/34051347/119076834-da107500-ba25-11eb-9832-5e458018cafa.png)
 
